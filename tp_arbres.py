@@ -45,6 +45,6 @@ def triTas(tab):
 
 
 vecteur2 = [40, 35, 25, 30, 20, 10, 5, 22, 18, 12]
-resultat = triTas(vecteur)
+resultat = triTas(vecteur2)
 print(resultat)
 
